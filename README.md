@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/A-Hemeda/Profile-README-Templates/blob/main/assests/banner.png?raw=true" alt="Amr Essam Kamel's GitHub Banner">
+  <img src="https://raw.githubusercontent.com/A-Hemeda/Profile-README-Templates/main/assests/banner.png" alt="Amr Essam Kamel's GitHub Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amr Essam Kamel</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Machine and AI Engineer from Egypt 🇪🇬</h3>
 
 ---
 
@@ -14,7 +14,6 @@ I am a Machine Learning Engineer specializing in building end-to-end AI solution
 - 🔭 I’m currently exploring **MLOps and scalable AI systems**.
 - 🌱 I’m always learning and deepening my expertise in **Generative AI and advanced model optimization**.
 - 👯 I’m looking to collaborate on **open-source AI projects, especially in NLP and Computer Vision**.
-- 💬 Ask me about **Python, TensorFlow, PyTorch, and building custom NLP models**.
 
 ---
 
@@ -25,7 +24,7 @@ I am a Machine Learning Engineer specializing in building end-to-end AI solution
 
 ### 🤖 AI & Machine Learning:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,huggingface,pandas,numpy,opencv,seaborn,matplotlib" alt="skill-icons" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,huggingface,pandas,numpy,opencv,seaborn,matplotlib,postman" alt="skill-icons" />
 </p>
 
 ---
