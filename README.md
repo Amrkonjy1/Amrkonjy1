@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amr Essam Kamel</h1>
+<h1 align="center">Hi 👋 I'm Amr Essam Kamel</h1>
 <h3 align="center">A passionate Machine Learning and AI Engineer</h3>
 
 ---
